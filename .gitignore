@@ -1,0 +1,6 @@
+# 🚫 Ignore big raw files
+data/creditcard.csv
+data/train_data.csv
+data/creditcard.csv.zip
+
+
