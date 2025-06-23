@@ -4,6 +4,12 @@ FraudShield AI is a powerful, explainable, and interactive fraud detection dashb
 
 ---
 
+🚀 **Live Demo**  
+Check out the interactive Streamlit dashboard here:  
+🔗 [FraudShield AI – Streamlit App](https://fraudshield-ai.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Fraud Detection** using XGBoost & Random Forest.
